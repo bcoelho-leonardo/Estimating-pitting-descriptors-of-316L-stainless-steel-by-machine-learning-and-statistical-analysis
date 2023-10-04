@@ -1,8 +1,8 @@
-This code reproduces the findings of the following scientific article, accepted for publication in npj Materials Degradation journal on 25 September 2023:
+This Python 3.8 code written in Jupyter Notebook reproduces the findings of the following scientific article, accepted for publication in npj Materials Degradation journal on 25 September 2023:
 
 "Estimating pitting descriptors of 316L stainless steel by machine learning and statistical analysis"
+
 Leonardo Bertolucci Coelho1,2,*, Daniel Torres1, Vincent Vangrunderbeek2, Miguel Bernal1, Gian Marco Paldino3, Gianluca Bontempi3, Jon Ustarroz1,2
-Leonardo Bertolucci Coelho, Daniel Torres, Vincent Vangrunderbeek, Miguel Bernal, Gian Marco Paldino, Gianluca Bontempi, Jon Ustarroz
 
 1ChemSIN – Chemistry of Surfaces, Interfaces and Nanomaterials, Université libre de Bruxelles (ULB), Brussels, Belgium
 
